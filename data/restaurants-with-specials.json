@@ -1,0 +1,940 @@
+[
+  {
+    "id": "angry-crab-shack",
+    "name": "Angry Crab Shack",
+    "category": "restaurants",
+    "location": "Orange Beach",
+    "address": "25751 Perdido Beach Blvd #1-A, Orange Beach, AL 36561",
+    "phone": "(251) 981-1136",
+    "website": "https://www.angrycrabshack.com/perdido-blvd-orange-beach-al/",
+    "description": "Angry Crab Shack in Orange Beach, AL is a casual seafood boil house where guests customize their crab-in-a-bag, sauces, and spice levels. The menu features fresh oysters, fried seafood, jambalaya, bowls, kids options, and big shared boil platters. Live music is offered on select nights on the patio stage.",
+    "hours": "sunday: 11:00–21:00 | monday: 11:00–21:00 | tuesday: 11:00–21:00 | wednesday: 11:00–21:00 | thursday: 11:00–21:00 | friday: 11:00–22:00 | saturday: 11:00–22:00",
+    "rating": 4.5,
+    "priceLevel": "$$",
+    "tags": [
+      "Family Friendly",
+      "Casual",
+      "Live Music",
+      "Kids Menu",
+      "Groups"
+    ],
+    "coordinates": {
+      "lat": 30.2672,
+      "lng": -87.5946
+    },
+    "images": [
+      "https://www.angrycrabshack.com/wp-content/uploads/2022/11/herogal-Orange-Beach_0000_Orange-Beach-06.jpg",
+      "https://s3-media0.fl.yelpcdn.com/bphoto/8VwZEH9YK2XgQ3J2YgKYqA/o.jpg",
+      "https://s3-media0.fl.yelpcdn.com/bphoto/rVxjH7mZ8Qw5v3fJ8nK9QA/o.jpg"
+    ],
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/angrycrabshackorangebeachal",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "image": "https://www.angrycrabshack.com/wp-content/uploads/2022/11/herogal-Orange-Beach_0000_Orange-Beach-06.jpg",
+    "events": "Live Music on Patio (Select nights 5:00 PM): Live music performances on select nights. Check with restaurant for schedule.",
+    "liveMusic": "Live Music on Patio (Select nights)",
+    "cuisine": "Seafood • Cajun • Boil House"
+  },
+  {
+    "id": "business-1763503361025-b7ws34q5h",
+    "name": "Bagel Boy",
+    "category": "restaurants",
+    "location": "27370 Canal Rd, Orange Beach, AL 36561, USA",
+    "address": "27370 Canal Rd, Orange Beach, AL 36561, USA",
+    "phone": "(251) 345-6739",
+    "website": "https://www.bolorestaurantoba.com/",
+    "hours": {
+      "monday": "Closed",
+      "tuesday": "4:00 – 9:00 PM",
+      "wednesday": "4:00 – 9:00 PM",
+      "thursday": "4:00 – 9:00 PM",
+      "friday": "4:00 – 9:00 PM",
+      "saturday": "4:00 – 9:00 PM",
+      "sunday": "4:00 – 9:00 PM"
+    },
+    "rating": 4.7,
+    "priceLevel": "$$",
+    "tags": [
+      "Orange Beach"
+    ],
+    "coordinates": {
+      "lat": 30.2941672,
+      "lng": -87.5583959
+    },
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "happyHour": "Daily"
+  },
+  {
+    "id": "business-1763503361025-zvntk4fyi",
+    "name": "Bear Point Harbor",
+    "category": "restaurants",
+    "location": "4851 Wharf Pkwy W Suite D116, Orange Beach, AL 36561, USA",
+    "address": "4851 Wharf Pkwy W Suite D116, Orange Beach, AL 36561, USA",
+    "phone": "(251) 923-0644",
+    "website": "https://www.yohorumandtacos.com/",
+    "hours": {
+      "monday": "9:00 AM – 5:00 PM",
+      "tuesday": "9:00 AM – 5:00 PM",
+      "wednesday": "9:00 AM – 5:00 PM",
+      "thursday": "9:00 AM – 5:00 PM",
+      "friday": "9:00 AM – 5:00 PM",
+      "saturday": "9:00 AM – 5:00 PM",
+      "sunday": "9:00 AM – 5:00 PM"
+    },
+    "rating": 3.7,
+    "priceLevel": "$$",
+    "tags": [
+      "Orange Beach"
+    ],
+    "coordinates": {
+      "lat": 30.2947271,
+      "lng": -87.62932409999999
+    },
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "happyHour": "Mon 11am-9pm"
+  },
+  {
+    "id": "bolo-steak-seafood",
+    "name": "BOLO Steak & Seafood",
+    "category": "restaurants",
+    "location": "Orange Beach",
+    "address": "25775 Perdido Beach Blvd, Orange Beach, AL 36561",
+    "phone": "(251) 981-6800",
+    "website": "https://www.bolorestaurant.com",
+    "description": "Upscale steakhouse and seafood restaurant offering premium cuts, fresh Gulf seafood, and an extensive wine selection in an elegant atmosphere.",
+    "hours": "monday: 17:00–22:00 | tuesday: 17:00–22:00 | wednesday: 17:00–22:00 | thursday: 17:00–22:00 | friday: 17:00–22:00 | saturday: 17:00–22:00 | sunday: 17:00–22:00",
+    "rating": 4.6,
+    "priceLevel": "$$$",
+    "tags": [
+      "Fine Dining",
+      "Steakhouse",
+      "Seafood",
+      "Upscale",
+      "Romantic",
+      "Special Occasion",
+      "Wine Bar"
+    ],
+    "coordinates": {
+      "lat": 30.2897,
+      "lng": -87.5647
+    },
+    "images": [
+      "https://gulfcoastjourneys.com/wp-content/uploads/2025/03/BOLO-Steak-Seafood-Orange-Beach-Alabama.jpg"
+    ],
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "image": "https://gulfcoastjourneys.com/wp-content/uploads/2025/03/BOLO-Steak-Seafood-Orange-Beach-Alabama.jpg",
+    "events": "🍷 unWINE Wednesday (Every Wednesday 5:00 PM – 10:00 PM): Half-price bottles of wine all day. Kids eat free! | 🥩 Prime Rib Thursday (Every Thursday 5:00 PM – 10:00 PM): Special prime rib dinner available all evening.",
+    "cuisine": "Steakhouse • Seafood • Fine Dining"
+  },
+  {
+    "id": "unique-business-id",
+    "name": "Business Name",
+    "category": "restaurants",
+    "location": "Gulf Shores or Orange Beach",
+    "address": "123 Street Name, City, AL 12345",
+    "phone": "(251) 555-1234",
+    "website": "https://www.example.com",
+    "description": "Description of the business goes here.",
+    "hours": "Mon-Fri 11am-9pm; Sat-Sun 10am-10pm",
+    "rating": 4.5,
+    "priceLevel": "$$",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ],
+    "coordinates": {
+      "lat": 30.2472,
+      "lng": -87.6348
+    },
+    "images": [
+      "https://example.com/image.jpg"
+    ],
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/businessname",
+      "instagram": "https://www.instagram.com/businessname",
+      "twitter": "https://twitter.com/businessname",
+      "tiktok": "https://www.tiktok.com/@businessname",
+      "youtube": "https://www.youtube.com/@businessname"
+    },
+    "image": "https://example.com/image.jpg",
+    "happyHour": "Daily 3 PM–6 PM",
+    "happyHourDeals": "Special Name: Description of the special",
+    "events": "Event Name (Every Friday 6:00 PM – 10:00 PM): Event description",
+    "cuisine": "Type • Style • Category"
+  },
+  {
+    "id": "buzzcatz-coffee-sweets",
+    "name": "BuzzCatz Coffee & Sweets",
+    "category": "restaurants",
+    "location": "Orange Beach",
+    "address": "25689 Canal Road, Orange Beach, AL 36561",
+    "phone": "(251) 980-5862",
+    "website": "https://buzzcatzcoffee.com",
+    "description": "Cozy bakery and coffee shop known for handcrafted pastries, custom cakes, and locally roasted coffee. A sister restaurant to Luna's Eat & Drink and GT's on the Bay.",
+    "hours": "sunday: 7:00 AM – 2:00 PM | monday: 7:00 AM – 2:00 PM | tuesday: 7:00 AM – 2:00 PM | wednesday: 7:00 AM – 2:00 PM | thursday: 7:00 AM – 2:00 PM | friday: 7:00 AM – 2:00 PM | saturday: 7:00 AM – 2:00 PM",
+    "rating": 4.7,
+    "priceLevel": "$",
+    "tags": [
+      "Coffee Shop",
+      "Bakery",
+      "Breakfast",
+      "Pastries",
+      "Café",
+      "Local Coffee",
+      "Desserts",
+      "Espresso",
+      "Family Friendly",
+      "Custom Cakes",
+      "Fresh Baked Daily",
+      "Happy Hour"
+    ],
+    "coordinates": {
+      "lat": 30.2936,
+      "lng": -87.5691
+    },
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7e/4a/8b/caption.jpg?w=1200&h=1200&s=1"
+    ],
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7e/4a/8b/caption.jpg?w=1200&h=1200&s=1",
+    "happyHour": "Happy Meower - 3 PM to 5 PM Daily - ['$1 Off All Espresso Drinks', 'Buy one ice cream or cookie, get second half off (limit 12 cookies per transaction)']",
+    "happyHourDeals": "['$1 Off All Espresso Drinks', 'Buy one ice cream or cookie, get second half off (limit 12 cookies per transaction)']",
+    "cuisine": "Coffee Shop, Bakery, Breakfast, Café"
+  },
+  {
+    "id": "cobalt-restaurant",
+    "name": "Cobalt, The Restaurant",
+    "category": "restaurants",
+    "location": "Orange Beach",
+    "address": "27842 Canal Rd, Orange Beach, AL 36561",
+    "phone": "(251) 981-9891",
+    "website": "https://cobaltrestaurant.net/",
+    "description": "Award-winning waterfront restaurant featuring innovative coastal cuisine, craft cocktails, and stunning canal views.",
+    "hours": "monday: Closed | tuesday: 5 PM–10 PM | wednesday: 5 PM–10 PM | thursday: 5 PM–10 PM | friday: 5 PM–10 PM | saturday: 5 PM–10 PM | sunday: Closed",
+    "rating": 4.7,
+    "priceLevel": "$$$",
+    "tags": [
+      "Waterfront",
+      "Craft Cocktails",
+      "Award Winning",
+      "Happy Hour",
+      "Fine Dining"
+    ],
+    "coordinates": {
+      "lat": 30.2789,
+      "lng": -87.5521
+    },
+    "images": [
+      "https://cobaltrestaurant.net/wp-content/uploads/2019/01/cobalt.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/65/81/fe/cobalt-the-restaurant.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/2f/5b/19/photo1jpg.jpg"
+    ],
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/CobaltAlabama",
+      "instagram": "https://www.instagram.com/cobalt_therestaurant",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "image": "https://cobaltrestaurant.net/wp-content/uploads/2019/01/cobalt.jpg",
+    "happyHour": "Tue-Sat 5 PM–6:30 PM",
+    "happyHourDeals": "Oyster Happy Hour: $1 per oyster during happy hour | Half Price Wine by Glass: 50% off all wines by the glass | Discounted Appetizers: Select appetizers $5-$8",
+    "cuisine": "Coastal • Seafood • Contemporary"
+  },
+  {
+    "id": "cosmos-restaurant",
+    "name": "Cosmo's Restaurant & Bar",
+    "category": "restaurants",
+    "location": "Orange Beach",
+    "address": "25753 Canal Rd, Orange Beach, AL 36561",
+    "phone": "(251) 948-9663",
+    "website": "https://www.cosmosob.com/",
+    "description": "Off the beaten path on Canal Road in Orange Beach, Cosmo’s Restaurant & Bar serves eclectic coastal cuisine with chef-inspired dishes ranging from steaks and seafood to pasta and sushi. A Gulf Coast staple loved by locals and tourists alike, Cosmo’s is known for its Firecracker Shrimp, Sesame Seared Tuna Salad, Chicken Roulade, and its famous Banana Leaf Wrapped Sea Bass, listed among the 'Top 100 Dishes to Eat in Alabama Before You Die.' Their menus include lunch, dinner, sushi, gluten-free options, Sunday brunch, sunset specials, happy hour, specialty cocktails, kids menu, and desserts.",
+    "hours": "sunday: 11:00–21:30 | monday: 11:00–21:30 | tuesday: 11:00–21:30 | wednesday: 11:00–21:30 | thursday: 11:00–21:30 | friday: 11:00–22:00 | saturday: 11:00–22:00",
+    "rating": 4.6,
+    "priceLevel": "$$",
+    "tags": [
+      "Sushi Bar",
+      "Brunch",
+      "Full Bar",
+      "Happy Hour",
+      "Gluten Free",
+      "Kids Menu",
+      "Local Favorite",
+      "Date Night"
+    ],
+    "coordinates": {
+      "lat": 30.2789,
+      "lng": -87.5649
+    },
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0e/7d/48/cd/cosmo-s-orange-beach.jpg"
+    ],
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/cosmosob",
+      "instagram": "https://www.instagram.com/cosmosob",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/7d/48/cd/cosmo-s-orange-beach.jpg",
+    "happyHour": "Daily 3 PM–6 PM",
+    "happyHourDeals": "Urban South Paradise Park Light Draft: Happy Hour drink special. - $2.5 | PBR Draft: Happy Hour drink special. - $2.5 | Luna's House Brew Draft: Happy Hour drink special. - $2.5 | Braided River Hoppy by Nature IPA: Happy Hour drink special. - $4 | House Wine (Cabernet or Chardonnay): Happy Hour drink special. - $3 | Well Drinks: Happy Hour drink special. - $3.5 | Original Cosmo: Happy Hour drink special. - $5 | Pineapple Sangria: Happy Hour drink special. - $5 | Firecracker Shrimp: Happy Hour appetizer portion. - $8 | Calamari: Happy Hour appetizer portion. - $9",
+    "cuisine": "Seafood • American • Sushi"
+  },
+  {
+    "id": "business-1763503361025-xbc8danov",
+    "name": "Crave Cookies",
+    "category": "restaurants",
+    "subcategory": [
+      "Seafood"
+    ],
+    "location": "25814 Canal Rd, Orange Beach, AL 36561, USA",
+    "address": "25814 Canal Rd, Orange Beach, AL 36561, USA",
+    "phone": "(251) 981-5516",
+    "website": "https://bigfishrestaurantbar.com/",
+    "description": "Varied menu focused on seafood also offers steaks & pasta at this comfortable strip-mall eatery.",
+    "hours": {
+      "monday": "3:00 – 9:00 PM",
+      "tuesday": "3:00 – 9:00 PM",
+      "wednesday": "3:00 – 9:00 PM",
+      "thursday": "3:00 – 9:00 PM",
+      "friday": "3:00 – 9:00 PM",
+      "saturday": "3:00 – 9:00 PM",
+      "sunday": "Closed"
+    },
+    "rating": 4.5,
+    "priceLevel": "$$$",
+    "tags": [
+      "Seafood",
+      "Orange Beach"
+    ],
+    "coordinates": {
+      "lat": 30.290588,
+      "lng": -87.584251
+    },
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "happyHour": "Daily 3pm – 9:00pm"
+  },
+  {
+    "id": "business-1763503361025-fpvcvh5lg",
+    "name": "Flora-Bama",
+    "category": "restaurants",
+    "location": "17401 Perdido Key Dr, Pensacola, FL 32507, USA",
+    "address": "17401 Perdido Key Dr, Pensacola, FL 32507, USA",
+    "phone": "(850) 492-0611",
+    "website": "https://www.florabama.com/",
+    "description": "Opened in 1964, this down-home waterfront bar/grill offers oysters, pub grub & live music every day.",
+    "hours": {
+      "monday": "9:00 AM – 2:30 AM",
+      "tuesday": "9:00 AM – 2:30 AM",
+      "wednesday": "9:00 AM – 2:30 AM",
+      "thursday": "9:00 AM – 2:30 AM",
+      "friday": "9:00 AM – 2:30 AM",
+      "saturday": "9:00 AM – 2:30 AM",
+      "sunday": "9:00 AM – 2:30 AM"
+    },
+    "rating": 4.5,
+    "priceLevel": "$$",
+    "tags": [
+      "Perdido"
+    ],
+    "coordinates": {
+      "lat": 30.2813122,
+      "lng": -87.518213
+    },
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "happyHour": "Daily 11:00 am - 2:30 am"
+  },
+  {
+    "id": "business-1763503361025-eis7g629g",
+    "name": "Flora-Bama Ole River Grill",
+    "category": "restaurants",
+    "subcategory": [
+      "Seafood",
+      " Burgers"
+    ],
+    "location": "17400 Perdido Key Dr, Pensacola, FL 32507, USA",
+    "address": "17400 Perdido Key Dr, Pensacola, FL 32507, USA",
+    "phone": "(850) 483-6262",
+    "website": "https://www.florabamaolerivergrill.com/",
+    "description": "Seafood, steaks, burgers & po' boy sandwiches in casual digs with a bar, waterfront deck & TVs.",
+    "hours": {
+      "monday": "11:00 AM – 9:00 PM",
+      "tuesday": "11:00 AM – 9:00 PM",
+      "wednesday": "11:00 AM – 9:00 PM",
+      "thursday": "11:00 AM – 9:00 PM",
+      "friday": "11:00 AM – 10:00 PM",
+      "saturday": "11:00 AM – 10:00 PM",
+      "sunday": "11:00 AM – 9:00 PM"
+    },
+    "rating": 4.4,
+    "priceLevel": "$$",
+    "tags": [
+      "Seafood",
+      "Burgers",
+      "Perdido"
+    ],
+    "coordinates": {
+      "lat": 30.2826447,
+      "lng": -87.51806119999999
+    },
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "happyHour": "Daily 3 PM–6 PM"
+  },
+  {
+    "id": "gts-on-the-bay",
+    "name": "GT's On The Bay",
+    "category": "restaurants",
+    "location": "Orange Beach",
+    "address": "27267 Perdido Beach Blvd, Orange Beach, AL 36561",
+    "phone": "(251) 981-6100",
+    "website": "https://gtsonthebay.com/",
+    "description": "Waterfront dining with spectacular bay views, fresh Gulf seafood, premium steaks, and live entertainment.",
+    "hours": "Mon-Sun 11am-10pm",
+    "rating": 4.6,
+    "priceLevel": "$$$",
+    "tags": [
+      "Waterfront",
+      "Live Music",
+      "Outdoor Seating",
+      "Happy Hour",
+      "Scenic Views"
+    ],
+    "coordinates": {
+      "lat": 30.2756,
+      "lng": -87.5589
+    },
+    "images": [
+      "https://gulfcoastjourneys.com/wp-content/uploads/2023/03/Outdoor-Patio-GTs-on-the-Bay-Orange-Beach-Alabama-1024x768.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/e0/7d/da/gt-s-on-the-bay.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/df/a5/bc/photo0jpg.jpg"
+    ],
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "image": "https://gulfcoastjourneys.com/wp-content/uploads/2023/03/Outdoor-Patio-GTs-on-the-Bay-Orange-Beach-Alabama-1024x768.jpg",
+    "happyHour": "Daily 3 PM–6 PM",
+    "happyHourDeals": "Raw Oyster Specials: Discounted fresh oysters on the half shell | House Wine & Beer: Special pricing on select beers and wines",
+    "events": "Live Music on the Deck (Thursday-Sunday 6:00 PM – 9:00 PM): Local and regional musicians perform on the outdoor deck",
+    "liveMusic": "Live Music on the Deck (Thursday-Sunday)",
+    "cuisine": "Seafood • Steaks • Southern"
+  },
+  {
+    "id": "lulus-gulf-shores",
+    "name": "LuLu's Gulf Shores",
+    "category": "restaurants",
+    "location": "Gulf Shores",
+    "address": "200 E 25th Ave, Gulf Shores, AL 36542",
+    "phone": "(251) 967-5858",
+    "website": "https://lulubuffett.com/",
+    "description": "Lucy Buffett's legendary waterfront restaurant with live music, great food, and a fun family atmosphere.",
+    "hours": "Sun-Thu 11am-9pm; Fri-Sat 11am-10pm",
+    "rating": 4.5,
+    "priceLevel": "$$",
+    "tags": [
+      "Family Friendly",
+      "Live Music",
+      "Waterfront",
+      "Beach Bar",
+      "Kids Menu",
+      "Outdoor Seating"
+    ],
+    "coordinates": {
+      "lat": 30.2759,
+      "lng": -87.6311
+    },
+    "images": [
+      "https://lulubuffett.com/wp-content/uploads/2023/03/Lulus-Gulf-Shores-Exterior.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d0/36/95/lulu-s.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d0/36/9e/lulu-s.jpg"
+    ],
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/LuLusGulfShores",
+      "instagram": "https://www.instagram.com/lulusgulfshores",
+      "twitter": "",
+      "tiktok": "https://www.tiktok.com/@lulusgulfshores",
+      "youtube": ""
+    },
+    "image": "https://lulubuffett.com/wp-content/uploads/2023/03/Lulus-Gulf-Shores-Exterior.jpg",
+    "happyHour": "Weekday afternoons 3-6 PM (times vary seasonally)",
+    "happyHourDeals": "$3 Domestic Drafts: Domestic draft beers | $5 House Wines: Select house wines | $5 Homeport Margarita: 12 oz Homeport Margarita | $5 Well Drinks: Well whiskey, vodka, rum",
+    "cuisine": "American • Seafood • Southern"
+  },
+  {
+    "id": "lunas-eat-and-drink",
+    "name": "Luna's Eat & Drink",
+    "category": "restaurants",
+    "location": "Orange Beach",
+    "address": "25689 Canal Road Ste. B, Orange Beach, AL 36561",
+    "phone": "(251) 980-5862",
+    "website": "https://lunaseatanddrink.com/",
+    "description": "Family-friendly Orange Beach restaurant serving coastal seafood, Southern comfort food, craft beer, and daily lunch, dinner, sunset, and happy hour specials.",
+    "hours": "sunday: 11:00 AM – 9:30 PM | monday: 11:00 AM – 9:30 PM | tuesday: 11:00 AM – 9:30 PM | wednesday: 11:00 AM – 9:30 PM | thursday: 11:00 AM – 9:30 PM | friday: 11:00 AM – 10:00 PM | saturday: 11:00 AM – 10:00 PM",
+    "rating": 4.6,
+    "priceLevel": "$$",
+    "tags": [
+      "Family Friendly",
+      "Outdoor Seating",
+      "Courtyard Games",
+      "Sports Bar",
+      "Craft Beer",
+      "Full Bar",
+      "Happy Hour",
+      "Southern Comfort Food",
+      "Casual Dining",
+      "Wheelchair Accessible",
+      "Large Groups",
+      "Takeout"
+    ],
+    "coordinates": {
+      "lat": 30.2936,
+      "lng": -87.5691
+    },
+    "images": [
+      "https://gulfcoastjourneys.com/wp-content/uploads/2023/08/Lunas-Eat-and-Drink-Orange-Beach-AL.jpg"
+    ],
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "image": "https://gulfcoastjourneys.com/wp-content/uploads/2023/08/Lunas-Eat-and-Drink-Orange-Beach-AL.jpg",
+    "happyHour": "Daily 4:00 PM - 6:00 PM - ['Draft beer specials starting at $2.50', 'Beer flights discounted', 'House wine specials', 'Select appetizer specials']",
+    "happyHourDeals": "['Draft beer specials starting at $2.50', 'Beer flights discounted', 'House wine specials', 'Select appetizer specials']",
+    "cuisine": "Southern, Seafood"
+  },
+  {
+    "id": "business-1763503361025-q2qae2fqr",
+    "name": "Pier 33",
+    "category": "restaurants",
+    "subcategory": [
+      "Pizza"
+    ],
+    "location": "101 W 6th Ave, Gulf Shores, AL 36542, USA",
+    "address": "101 W 6th Ave, Gulf Shores, AL 36542, USA",
+    "phone": "(251) 948-7262",
+    "website": "http://www.paparocco.com/",
+    "description": "Popular hub for pizza, oysters & other casual American eats, plus live music & gulf views.",
+    "hours": {
+      "monday": "11:00 AM – 10:00 PM",
+      "tuesday": "11:00 AM – 10:00 PM",
+      "wednesday": "11:00 AM – 10:00 PM",
+      "thursday": "11:00 AM – 10:00 PM",
+      "friday": "11:00 AM – 10:00 PM",
+      "saturday": "11:00 AM – 10:00 PM",
+      "sunday": "11:00 AM – 10:00 PM"
+    },
+    "rating": 4.2,
+    "priceLevel": "$$",
+    "tags": [
+      "Pizza",
+      "Gulf Shores"
+    ],
+    "coordinates": {
+      "lat": 30.2524618,
+      "lng": -87.6894741
+    },
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "happyHour": "Monday - Friday 11AM-10PM"
+  },
+  {
+    "id": "pink-pony-pub",
+    "name": "Pink Pony Pub",
+    "category": "restaurants",
+    "location": "Gulf Shores",
+    "address": "137 E Gulf Pl, Gulf Shores, AL 36542",
+    "phone": "(251) 948-6371",
+    "website": "https://pinkponypub.net",
+    "description": "The Pink Pony Pub is a legendary beachfront restaurant and bar in Gulf Shores, Alabama, known for its bright pink exterior, gulf-front views, and old-school coastal charm. Originally opened in the 1950s and reborn after multiple hurricanes, the Pink Pony has become a true local landmark where visitors and locals gather for shrimp baskets, raw oysters, burgers, gumbos, and Po' Boys. With a fun, lively atmosphere, full bar, frozen daiquiris, Bushwhackers, and family-friendly dining until 9 PM, the Pink Pony Pub delivers classic beach-bar vibes right on the sand, just steps from the Gulf of Mexico.",
+    "hours": "sunday: 11:00–22:00 | monday: 11:00–22:00 | tuesday: 11:00–22:00 | wednesday: 11:00–22:00 | thursday: 11:00–22:00 | friday: 11:00–22:00 | saturday: 11:00–22:00",
+    "rating": 4.4,
+    "priceLevel": "$$",
+    "tags": [
+      "Beachfront",
+      "Historic",
+      "Iconic Building",
+      "Casual",
+      "Frozen Drinks",
+      "Bushwhackers",
+      "Raw Oysters",
+      "Local Favorite"
+    ],
+    "coordinates": {
+      "lat": 30.2469,
+      "lng": -87.632
+    },
+    "images": [
+      "https://alabama-travel.s3.amazonaws.com/partners-uploads/photo/image/615215b1d3596100089dcd5e/GulfShoresPinkPonyPub.jpg"
+    ],
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/pinkponypub",
+      "instagram": "https://www.instagram.com/pinkponypub",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "image": "https://alabama-travel.s3.amazonaws.com/partners-uploads/photo/image/615215b1d3596100089dcd5e/GulfShoresPinkPonyPub.jpg",
+    "happyHour": "Daily 3 PM–6 PM",
+    "cuisine": "Seafood • American • Burgers"
+  },
+  {
+    "id": "business-1763503361025-nx5nji42f",
+    "name": "Purple Octopus",
+    "category": "restaurants",
+    "subcategory": [
+      "Seafood"
+    ],
+    "location": "701 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "address": "701 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "phone": "(251) 948-2445",
+    "website": "https://www.originaloysterhouse.com/",
+    "description": "Gulf & Southern-style seafood, plus a kids' menu, in wood-paneled digs with a laid-back vibe.",
+    "hours": {
+      "monday": "11:00 AM – 9:00 PM",
+      "tuesday": "11:00 AM – 9:00 PM",
+      "wednesday": "11:00 AM – 9:00 PM",
+      "thursday": "11:00 AM – 9:00 PM",
+      "friday": "11:00 AM – 9:00 PM",
+      "saturday": "11:00 AM – 9:00 PM",
+      "sunday": "11:00 AM – 9:00 PM"
+    },
+    "rating": 4.4,
+    "priceLevel": "$$",
+    "tags": [
+      "Seafood",
+      "Gulf Shores"
+    ],
+    "coordinates": {
+      "lat": 30.2545635,
+      "lng": -87.68913859999999
+    },
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "happyHour": "Sunday"
+  },
+  {
+    "id": "sea-n-suds",
+    "name": "Sea-N-Suds Restaurant",
+    "category": "restaurants",
+    "location": "Gulf Shores",
+    "address": "405 E Beach Blvd, Gulf Shores, AL 36542",
+    "phone": "(251) 948-7894",
+    "website": "https://sea-n-suds.com/",
+    "description": "Beachfront restaurant and bar serving fresh seafood, burgers, and cold drinks with a view of the Gulf.",
+    "hours": "Sun-Thu 11am-9pm; Fri-Sat 11am-10pm",
+    "rating": 4.4,
+    "priceLevel": "$$",
+    "tags": [
+      "Beach Bar",
+      "Family Friendly",
+      "Outdoor Seating",
+      "Live Music",
+      "Beachfront"
+    ],
+    "coordinates": {
+      "lat": 30.2461,
+      "lng": -87.6312
+    },
+    "images": [
+      "https://sea-n-suds.com/wp-content/uploads/2022/04/Sea-n-Suds-Exterior.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/90/3d/5e/sea-n-suds.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/90/3d/62/sea-n-suds.jpg"
+    ],
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "image": "https://sea-n-suds.com/wp-content/uploads/2022/04/Sea-n-Suds-Exterior.jpg",
+    "events": "Live Music Weekends (Friday-Sunday 7:00 PM – 10:00 PM): Enjoy live beach music on the deck",
+    "liveMusic": "Live Music Weekends (Friday-Sunday)",
+    "cuisine": "Seafood • American • Casual"
+  },
+  {
+    "id": "the-hangout",
+    "name": "The Hangout",
+    "category": "restaurants",
+    "location": "Gulf Shores",
+    "address": "101 E Beach Blvd, Gulf Shores, AL 36542",
+    "phone": "(251) 948-3030",
+    "website": "https://www.thehangoutal.com",
+    "description": "Family-friendly beach bar and restaurant with live music, fresh seafood, burgers, and a fun atmosphere right on the beach.",
+    "hours": "monday: 11 AM–9 PM | tuesday: 11 AM–9 PM | wednesday: 11 AM–9 PM | thursday: 11 AM–9 PM | friday: 11 AM–11 PM | saturday: 11 AM–11 PM | sunday: 11 AM–9 PM",
+    "rating": 4.5,
+    "priceLevel": "$$",
+    "tags": [
+      "Beach Bar",
+      "Live Music",
+      "Family Friendly",
+      "Outdoor Seating",
+      "Happy Hour"
+    ],
+    "coordinates": {
+      "lat": 30.2472,
+      "lng": -87.6348
+    },
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/1b/d7/4d/beautiful-day-at-the.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/4d/36/32/the-hangout.jpg"
+    ],
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/TheHangoutAL",
+      "instagram": "https://www.instagram.com/thehangoutal",
+      "twitter": "https://twitter.com/thehangoutal",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/1b/d7/4d/beautiful-day-at-the.jpg",
+    "happyHour": "Daily 3 PM–6 PM",
+    "happyHourDeals": "$3 Off Appetizers: $3 off select appetizers during happy hour | $2 Off Draft Beer: $2 off all draft beers | $4 House Wines: House red and white wines | $5 Well Drinks: All well liquor cocktails",
+    "events": "🎸 Live Music Every Weekend (Friday–Sunday 6:00 PM – 10:00 PM): Live bands and acoustic performances on the beach. Check website for schedule. | 🌮 Taco Tuesday (Every Tuesday All Day): $2 tacos all day! Choice of fish, shrimp, or chicken. | Trivia at 3pm (Wednesdays 3:00 PM): Test your knowledge with beach trivia | Foam Parties (Select Saturdays Check website): Family-friendly foam parties on the beach",
+    "liveMusic": "🎸 Live Music Every Weekend (Friday–Sunday)",
+    "cuisine": "American • Seafood • Burgers"
+  },
+  {
+    "id": "business-1763503361025-dm2oue6mj",
+    "name": "The Tin Top Restaurant & Oyster Bar",
+    "category": "restaurants",
+    "subcategory": [
+      "Seafood"
+    ],
+    "location": "17451 County Rd 49 S, Bon Secour, AL 36511, USA",
+    "address": "17451 County Rd 49 S, Bon Secour, AL 36511, USA",
+    "phone": "(251) 949-5086",
+    "website": "http://www.tintoprestaurant.com/",
+    "description": "No-frills bayside destination for choice seafood, large oysters & classic fried green tomatoes.",
+    "hours": {
+      "monday": "11:00 AM – 9:00 PM",
+      "tuesday": "11:00 AM – 9:00 PM",
+      "wednesday": "11:00 AM – 9:00 PM",
+      "thursday": "11:00 AM – 10:00 PM",
+      "friday": "11:00 AM – 10:00 PM",
+      "saturday": "11:00 AM – 10:00 PM",
+      "sunday": "10:00 AM – 9:00 PM"
+    },
+    "rating": 4.5,
+    "priceLevel": "$$",
+    "tags": [
+      "Seafood"
+    ],
+    "coordinates": {
+      "lat": 30.3111481,
+      "lng": -87.72612649999999
+    },
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "happyHour": "Sunday 10 AM – 9 PM"
+  },
+  {
+    "id": "tiki-raw-bar",
+    "name": "Tiki & Raw Bar",
+    "category": "restaurants",
+    "location": "Orange Beach",
+    "address": "27844 Canal Rd, Orange Beach, AL",
+    "phone": "(251) 000-0000",
+    "website": "https://tikibarorangebeach.com",
+    "description": "Lively open-air waterfront spot at Bear Point Marina offering fresh Gulf seafood, tropical cocktails, live music, and unbeatable sunset views over Terry Cove.",
+    "hours": "sunday: 11:00 AM – 9:00 PM | monday: 11:00 AM – 9:00 PM | tuesday: 11:00 AM – 9:00 PM | wednesday: 11:00 AM – 9:00 PM | thursday: 11:00 AM – 9:00 PM | friday: 11:00 AM – 10:00 PM | saturday: 11:00 AM – 10:00 PM",
+    "rating": 4.5,
+    "priceLevel": "$$",
+    "tags": [
+      "Waterfront Bar",
+      "Raw Oysters",
+      "Live Music",
+      "Tropical Drinks",
+      "Bear Point Marina",
+      "Sunset Views",
+      "Terry Cove",
+      "Open Air Dining",
+      "Fresh Seafood",
+      "Ladies Night",
+      "Game Day Specials"
+    ],
+    "coordinates": {
+      "lat": 30.2946,
+      "lng": -87.5701
+    },
+    "images": [
+      "https://gulfcoastjourneys.com/wp-content/uploads/2024/03/Tiki-Bar-at-Sportsman-Marina-Orange-Beach-Alabama-720x720.jpg"
+    ],
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "image": "https://gulfcoastjourneys.com/wp-content/uploads/2024/03/Tiki-Bar-at-Sportsman-Marina-Orange-Beach-Alabama-720x720.jpg",
+    "happyHour": "Ladies Night – Dancing with the Stars Specials - Available all day, with Tuesday night episodes at 7 PM in the Sandpit - ['Samba Sangria $5', \"Bruno's Sunrise $7\", 'The Flirtini $7', 'Kiss on the Beach $7', 'Salsa with the Stars $12', 'Poke Nachos $9', 'Chicken Salad $9', 'Smoked Tuna Dip $8', 'Warm Cookie $8']",
+    "happyHourDeals": "['Samba Sangria $5', \"Bruno's Sunrise $7\", 'The Flirtini $7', 'Kiss on the Beach $7', 'Salsa with the Stars $12', 'Poke Nachos $9', 'Chicken Salad $9', 'Smoked Tuna Dip $8', 'Warm Cookie $8']",
+    "cuisine": "Seafood, Island-Inspired, American"
+  },
+  {
+    "id": "villaggio-grille",
+    "name": "Villaggio Grille",
+    "category": "restaurants",
+    "location": "Orange Beach",
+    "address": "4790 Main Street, Orange Beach, AL 36561",
+    "phone": "(251) 224-4788",
+    "website": "https://villaggiogrille.com/",
+    "description": "Refined yet relaxed dining featuring Italian-inspired coastal cuisine, wood-fired pizzas, prime steaks, fresh seafood, and an award-winning wine list at The Wharf.",
+    "hours": "sunday: 10:00 AM – 2:00 PM (Brunch), 4:00 PM – 9:00 PM (Dinner) | monday: 11:00 AM – 3:00 PM (Lunch), 4:00 PM – 9:00 PM (Dinner) | tuesday: 11:00 AM – 3:00 PM (Lunch), 4:00 PM – 9:00 PM (Dinner) | wednesday: 11:00 AM – 3:00 PM (Lunch), 4:00 PM – 9:00 PM (Dinner) | thursday: 11:00 AM – 3:00 PM (Lunch), 4:00 PM – 9:00 PM (Dinner) | friday: 11:00 AM – 3:00 PM (Lunch), 4:00 PM – 10:00 PM (Dinner) | saturday: 11:00 AM – 3:00 PM (Lunch), 4:00 PM – 10:00 PM (Dinner)",
+    "rating": 4.6,
+    "priceLevel": "$$$",
+    "tags": [
+      "Italian Cuisine",
+      "Fine Dining",
+      "The Wharf",
+      "Wine Dinner",
+      "Craft Cocktails",
+      "Open Kitchen",
+      "Wood Fired Pizza",
+      "Award Winning Wine List",
+      "Sunday Brunch",
+      "Happy Hour",
+      "Live Music Weekends",
+      "Indoor/Outdoor Seating",
+      "Chef Tasting Menus",
+      "Private Dining",
+      "Catering Available"
+    ],
+    "coordinates": {
+      "lat": 30.2949,
+      "lng": -87.6165
+    },
+    "images": [
+      "https://images.squarespace-cdn.com/content/v1/5d8e9f5a7f3e6b0001d9c0a6/1569518436786-9XQVQK7XQVQK7XQVQK7X/villaggio-grille-orange-beach.jpg"
+    ],
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "image": "https://images.squarespace-cdn.com/content/v1/5d8e9f5a7f3e6b0001d9c0a6/1569518436786-9XQVQK7XQVQK7XQVQK7X/villaggio-grille-orange-beach.jpg",
+    "happyHour": "Daily 3:00 PM - 5:00 PM - ['Select flatbreads, small plates, and oysters ½ price', 'House Wine $5', 'Draft Beer $4', 'Well Drinks $6', 'Signature Cocktails $8']",
+    "happyHourDeals": "['Select flatbreads, small plates, and oysters ½ price', 'House Wine $5', 'Draft Beer $4', 'Well Drinks $6', 'Signature Cocktails $8']",
+    "cuisine": "Italian, Coastal, Seafood"
+  },
+  {
+    "id": "wolf-bay-restaurant",
+    "name": "Wolf Bay Restaurant",
+    "category": "restaurants",
+    "location": "Orange Beach",
+    "address": "26619 Perdido Beach Blvd, Orange Beach, AL 36561",
+    "phone": "(251) 981-6991",
+    "website": "https://wolfbayrestaurant.com/",
+    "description": "Family-owned Gulf Coast landmark since 1973, serving fresh seafood, Southern favorites, Captain's Platters, hand-cut steaks, and famous all-you-can-eat salad bar.",
+    "hours": "sunday: 11:00 AM – 4:00 PM (Lunch), 4:00 PM – 9:00 PM (Dinner) | monday: 11:00 AM – 4:00 PM (Lunch), 4:00 PM – 9:00 PM (Dinner) | tuesday: 11:00 AM – 4:00 PM (Lunch), 4:00 PM – 9:00 PM (Dinner) | wednesday: 11:00 AM – 4:00 PM (Lunch), 4:00 PM – 9:00 PM (Dinner) | thursday: 11:00 AM – 4:00 PM (Lunch), 4:00 PM – 9:00 PM (Dinner) | friday: 11:00 AM – 4:00 PM (Lunch), 4:00 PM – 10:00 PM (Dinner) | saturday: 11:00 AM – 4:00 PM (Lunch), 4:00 PM – 10:00 PM (Dinner)",
+    "rating": 4.5,
+    "priceLevel": "$$",
+    "tags": [
+      "Family Owned Since 1973",
+      "Gulf Coast Landmark",
+      "Fresh Seafood",
+      "Famous Salad Bar",
+      "Captain'S Platters",
+      "Hand Cut Steaks",
+      "Southern Comfort Food",
+      "Homemade Desserts",
+      "Happy Hour",
+      "Casual Dining",
+      "Family Friendly",
+      "Made From Scratch",
+      "Locally Sourced",
+      "Traditional Recipes",
+      "All You Can Eat Salad Bar"
+    ],
+    "coordinates": {
+      "lat": 30.2851,
+      "lng": -87.5426
+    },
+    "images": [
+      "https://wolfbayrestaurant.com/wp-content/uploads/2021/05/wolf-bay-restaurant-orange-beach.jpg"
+    ],
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": "",
+      "youtube": ""
+    },
+    "image": "https://wolfbayrestaurant.com/wp-content/uploads/2021/05/wolf-bay-restaurant-orange-beach.jpg",
+    "happyHour": "Daily 3:00 PM - 6:00 PM - ['$8 Appetizers (Fried Pickles, Spinach Dip, Fried Green Tomatoes)', 'Domestic Beer $4', 'House Wine $5', 'Well Drinks $6', 'Signature Cocktails $8']",
+    "happyHourDeals": "['$8 Appetizers (Fried Pickles, Spinach Dip, Fried Green Tomatoes)', 'Domestic Beer $4', 'House Wine $5', 'Well Drinks $6', 'Signature Cocktails $8']",
+    "cuisine": "Seafood, Southern, Steakhouse"
+  }
+]
