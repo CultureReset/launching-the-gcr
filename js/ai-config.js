@@ -1,9 +1,10 @@
-// AI Configuration - ChatGPT Integration
-// ⚠️ IMPORTANT: This file contains your API key. Never commit to git!
+// AI Configuration
+// Do not put API keys in client-side JavaScript. The browser must not hold a secret key.
+// External AI stays off until a server-side proxy supplies a key. Never commit a key here.
 
 window.AI_CONFIG = {
   // OpenAI API Configuration
-  apiKey: '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',
+  apiKey: '',
   provider: 'openai',
   model: 'gpt-4o-mini', // Fast, cheap model for intent analysis only
 
